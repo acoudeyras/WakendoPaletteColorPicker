@@ -1,9 +1,9 @@
 {
-    "name": "KendoPaletteColorPicker",
-    "studioName": "KendoPaletteColorPicker",
-    "category": "Custom Widgets",
+    "name": "WakendoPaletteColorPicker",
+    "studioName": "WakendoPaletteColorPicker",
+    "category": "Kendo Widgets",
     "iconPath": "/icons/widget.png",
-    "author": "Widget Developer",
+    "author": "Alexis Coudeyras",
     "contributors": [
         "Alexis Coudeyras"
     ],
@@ -18,9 +18,9 @@
     "license": "MIT",
     "loadDependencies": [
         {"id": "Widget_V2"},
-		{"id": "KendoCore/package.json", "version": "1.0.0", "path": "WIDGETS_CUSTOM"},
-		{"id": "KendoCore/lib/telerik.kendoui.core/js/kendo.colorpicker.min.js", "version": "1.0.0", "path": "WIDGETS_CUSTOM"},
-        {"id": "KendoPaletteColorPicker/widget.js", "version": "1.0.0", "path": "WIDGETS_CUSTOM"},
-        {"id": "KendoPaletteColorPicker/designer.js", "studioOnly": true, "version": "1.0.0", "path": "WIDGETS_CUSTOM"}
+	{"id": "WakendoCore/package.json", "version": "1.0.0", "path": "WIDGETS_CUSTOM"},
+	{"id": "WakendoCore/lib/telerik.kendoui.core/js/kendo.colorpicker.min.js", "version": "1.0.0", "path": "WIDGETS_CUSTOM"},
+        {"id": "WakendoPaletteColorPicker/widget.js", "version": "1.0.0", "path": "WIDGETS_CUSTOM"},
+        {"id": "WakendoPaletteColorPicker/designer.js", "studioOnly": true, "version": "1.0.0", "path": "WIDGETS_CUSTOM"}
     ]
 }
