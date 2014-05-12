@@ -1,7 +1,7 @@
-WAF.define('KendoPaletteColorPicker', ['waf-core/widget', 'kendoCore'], function(widget, $) {
+WAF.define('WakendoPaletteColorPicker', ['waf-core/widget', 'wakendoCore'], function(widget, $) {
 	'use strict';
 	
-    var KendoPaletteColorPicker = widget.create('KendoPaletteColorPicker', {
+    var KendoPaletteColorPicker = widget.create('WakendoPaletteColorPicker', {
 
     	value: widget.property({
     		type: 'string'
