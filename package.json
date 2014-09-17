@@ -13,6 +13,7 @@
         "type": "git",
         "url": "https://github.com/acoudeyras/WakendoPaletteColorPicker.git"
     },
+    "externalWidgets" : ["https://github.com/acoudeyras/WakendoCore.git"],
     "keywords": ["wakanda", "widget", "kendo", "color"],
     "engines": {"wakanda": ">= 8"},
     "license": "MIT",
